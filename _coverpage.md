@@ -8,6 +8,6 @@
 - 心得体会
 - 实用文档
 
-[GitHub](http://knowcodesboy.gitee.io/docs)
-[Gitee](http://knowcodesboy.gitee.io/docs)
+[GitHub](https://gitee.com/KnowCodesBoy/docs.git)
+[Gitee](https://gitee.com/KnowCodesBoy/docs.git)
 [快速开始](#首页)
