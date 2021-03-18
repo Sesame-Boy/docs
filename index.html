@@ -27,6 +27,16 @@
       },
     }
   </script>
+  <!-- 
+    Progressive Web Apps(PWA) 是一项融合 Web 和 Native 应用各项优点的解决方案。
+    我们可以利用其支持离线功能的特点，让我们的网站可以在信号差或者离线状态下正常运行。
+    要使用它也非常容易。
+  -->
+  <script>
+    if (typeof navigator.serviceWorker !== 'undefined') {
+      navigator.serviceWorker.register('sw.js')
+    }
+  </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
