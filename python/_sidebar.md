@@ -1,5 +1,6 @@
 * [__JVAV__](/java/)
 * [__PYTHON__](/python/)
+    * [PYTHON详情](/python/python)
 * [__GOLANG__](/golang/)
 * [__REACT__](/react/)
 * [__REACT NATIVE__](/reactnative/)

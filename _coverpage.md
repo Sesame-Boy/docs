@@ -10,4 +10,4 @@
 
 [GitHub](https://gitee.com/KnowCodesBoy/docs.git)
 [Gitee](https://gitee.com/KnowCodesBoy/docs.git)
-[快速开始](#首页)
+[快速开始](/guide/)

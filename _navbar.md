@@ -1,5 +1,5 @@
-* 入门
-  * [快速开始](zh-cn/quickstart.md)
+* 常用
+  * [首页](/)
   * [多页文档](zh-cn/more-pages.md)
   * [定制导航栏](zh-cn/custom-navbar.md)
   * [封面](zh-cn/cover.md)
