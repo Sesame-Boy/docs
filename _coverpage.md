@@ -1,6 +1,6 @@
 ![logo](_media/logo.svg)
 
-# 学习随录 <small>1.2</small>
+# 学习随录 <small>1.3</small>
 
 > 随心随意地记录
 
