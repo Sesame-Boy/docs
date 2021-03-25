@@ -5,6 +5,7 @@
 * [__REACT NATIVE__](/reactnative/)
 * [__VUE__](/vue/)
 * [__UNIAPP__](/uniapp/)
+* [__SQL__](/sql/)
 * [__撰写指南__](/guide/)
 * [__常用命令__](/command/)
 * [__注意事项__](/note/)
